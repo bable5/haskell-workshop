@@ -1,5 +1,5 @@
 name: Haskell Workshop
-#url: "http://bable5.github.io/haskell-workshop"
+url: "http://bable5.github.io/haskell-workshop"
 baseurl: ""
 
 markdown: redcarpet
