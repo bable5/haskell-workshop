@@ -15,11 +15,15 @@
     * Offsides rule
 
 
+# Lists
 * Functions on lists
-    * Sum
-    * QuickSort
-    * Fibinachi
-    * List comprehensions
+    * Sum <!-- .element: class="fragment" data-fragment-index="1" -->
+    * QuickSort<!-- .element: class="fragment" data-fragment-index="2" -->
+    * Fibinachi<!-- .element: class="fragment" data-fragment-index="3" -->
+    * List comprehensions<!-- .element: class="fragment" data-fragment-index="4" -->
+
+
+# Tuples
 * Tuples
     * <code>fst</code>
     * <code>snd</code>
