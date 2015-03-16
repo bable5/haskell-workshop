@@ -33,7 +33,17 @@ fun = let a = 1
        a + b + c
 ```
 
+### Guards
 
+* Like pattern matching, but with an expression
+
+```Haskell
+choose1 x
+    | x == 1 = "One"
+    | x == 2 = "Two"
+    | x == 3 = "Three"
+    | otherwise = "Many"
+```
 
 
 
